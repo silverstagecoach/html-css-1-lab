@@ -2,11 +2,15 @@ html{
     animation-play-state:initial, running;
 }
 h1{
-    font:bold;
-    grid-area: auto;
     text-align:center
 }
 p{
-    text-align: right;
+    text-align: left;
     font-weight: 600;
+    color: black;
+    stop-color: red;
+}
+img{
+    margin: 20px;
+    width: 95vw;
 }

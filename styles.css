@@ -1,0 +1,12 @@
+html{
+    animation-play-state:initial, running;
+}
+h1{
+    font:bold;
+    grid-area: auto;
+    text-align:center
+}
+p{
+    text-align: right;
+    font-weight: 600;
+}
